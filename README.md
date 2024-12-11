@@ -1,2 +1,1 @@
-# PrepCourseHenry
-Repositorio de prueba del course de henry
+Un proyecto de prueba para ver como crear un repositorio den GitHub y copiarlo a mi repositorio local
